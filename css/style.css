@@ -37,7 +37,7 @@ p {
 p:last-of-type {
     margin-bottom: 0;
 }
-.title {
+.title== {
     font-size: 2.5rem;
     margin-bottom: 1.5em;
     font-weight: 900;
@@ -253,7 +253,7 @@ nav a:focus {
     margin: 1em;
 } 
 
-@media (min-width: 40rem) {
+@media (min-width: 37rem) {
     .port-item {
         width: 50%;
     }
